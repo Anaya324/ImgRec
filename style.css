@@ -1,0 +1,13 @@
+body {
+    background:lavenderblush;
+    color:thistle
+}
+.camera {
+    border: 2px dashes black;
+    width: 350;
+    height: 300;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+    color: black;
+}
